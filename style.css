@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    height: 100vh;
+    width: auto;
+}
+
+.topMenu {
+    background-color: red;
+    height: 50px;
+}
